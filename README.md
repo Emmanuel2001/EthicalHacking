@@ -11,5 +11,6 @@ Catt (https://github.com/skorokithakis/catt)
 
 
 I have combined & modified them into one folder for easier use in my assignment.
-Credits to the developer of the tools, please visit their github for more information on their tools.
+
+All credits to the developer of the tools, please visit their github for more information on their tools.
 Thank you.
